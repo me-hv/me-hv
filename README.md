@@ -1,4 +1,3 @@
-```markdown
 # 🏛️ Harry Verma
 **Full Stack Engineer & UI Architect**  
 *Architecting high-fidelity, spatial digital experiences with a "Mission Control" philosophy.*
@@ -58,13 +57,3 @@ I bridge the gap between sophisticated UI/UX design and scalable system architec
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&text_color=9f9f9f" alt="Quote" />
 </p>
-```
-
-### Key Changes Explained:
-1.  **Next.js 15 Highlighting:** Specifically mentioned Next.js 15 in the tech stack and project descriptions to show you are on the bleeding edge.
-2.  **Architectural Layout:** Used a table for the "Technical Ecosystem" section to make it look like a spec sheet or a dashboard.
-3.  **Project Numbering:** Used a "01, 02" numbering format, which is common in high-end architecture and design portfolios.
-4.  **Updated Copy:** Refined the descriptions to use industry-standard terminology like "Partial Prerendering (PPR)," "Content Density," and "Active Development."
-5.  **Refined Visuals:** Swapped some standard icons for themed badges to maintain the "Quiet Luxury" (black/white/grey) feel while still being informative.
-
-**Note:** Don't forget to replace `YOUR_LINKEDIN_USERNAME` and `your.email@example.com` with your actual details!
