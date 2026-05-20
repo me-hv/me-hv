@@ -1,4 +1,4 @@
-# 🏛️ Harry Verma
+# Harry Verma
 **Full Stack Engineer & UI Architect**  
 *Architecting high-fidelity, spatial digital experiences with a "Mission Control" philosophy.*
 
