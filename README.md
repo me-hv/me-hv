@@ -1,6 +1,3 @@
-Here’s the clean `README.md` version ready to copy-paste into your GitHub profile repository.
-
-```md
 # Harry Verma  
 ### Full Stack Engineer • Android Developer • UI Systems Architect  
 
@@ -89,13 +86,11 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
 
 # Technical Ecosystem
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend Engineering** | Next.js 15 • React 19 • TypeScript • Tailwind CSS |
-| **Android Development** | Kotlin • Android Studio • Jetpack Components |
-| **Backend & Infrastructure** | Node.js • Firebase • Supabase • PostgreSQL • Prisma |
-| **Design & Motion** | Framer Motion • Three.js • Figma |
-| **Systems & Tooling** | Docker • Git • Vercel |
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,kotlin,firebase,supabase,postgresql,prisma,docker,figma,threejs,vercel,git" />
+
+</p>
 
 ---
 
@@ -112,10 +107,12 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
 
 # System Diagnostics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-hv&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-hv&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true" width="40%" />
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-hv&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-hv&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f"/>
+
 </p>
 
 ---
