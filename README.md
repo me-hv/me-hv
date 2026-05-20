@@ -86,11 +86,38 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
 
 # Technical Ecosystem
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,kotlin,firebase,supabase,postgresql,prisma,docker,figma,threejs,vercel,git" />
-
-</p>
+<table>
+  <tr>
+    <td><b>Frontend Engineering</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Android Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Infrastructure</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgresql,prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design & Motion</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,threejs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems & Tooling</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,vercel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
