@@ -93,31 +93,37 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
       <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
     </td>
   </tr>
+
   <tr>
     <td><b>Android Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
     </td>
   </tr>
+
   <tr>
     <td><b>Backend & Infrastructure</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgresql,prisma" />
     </td>
   </tr>
+
   <tr>
     <td><b>Design & Motion</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=figma,threejs" />
     </td>
   </tr>
+
   <tr>
     <td><b>Systems & Tooling</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,vercel" />
+      <img src="https://skillicons.dev/icons?i=docker,git,vercel,streamlit" />
     </td>
   </tr>
 </table>
+```
+
 
 ---
 
