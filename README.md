@@ -4,7 +4,7 @@
 
 ---
 
-### 🌑 The Vision
+### The Vision
 I bridge the gap between sophisticated UI/UX design and scalable system architecture. My work focuses on **"Quiet Luxury"**—minimalist aesthetics paired with high-performance execution. I specialize in building complex dashboards, editorial-grade platforms, and spatial web experiences.
 
 - 🔭 **Currently Architecting:** [Hira Times](https://github.com/me-hv/hiratimes.com) — A Next.js 15 editorial powerhouse.
@@ -13,7 +13,7 @@ I bridge the gap between sophisticated UI/UX design and scalable system architec
 
 ---
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 
 | **Core Stack** | **Technologies** |
 | :--- | :--- |
@@ -23,7 +23,7 @@ I bridge the gap between sophisticated UI/UX design and scalable system architec
 
 ---
 
-### 🚀 Selected Works
+### Selected Works
 
 #### 01. [Hira Times](https://github.com/me-hv/hiratimes.com)
 **Lead Architect | Next.js 15 & System Design**
@@ -39,7 +39,7 @@ I bridge the gap between sophisticated UI/UX design and scalable system architec
 
 ---
 
-### 📊 System Diagnostics
+### System Diagnostics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=me-hv&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" alt="Harry's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-hv&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true" alt="Top Languages" width="40%" />
@@ -47,7 +47,7 @@ I bridge the gap between sophisticated UI/UX design and scalable system architec
 
 ---
 
-### 📡 Connection Channels
+### Connection Channels
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Hira_Times-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hiratimes.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
