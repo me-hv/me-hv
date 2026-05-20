@@ -7,9 +7,9 @@
 ### The Vision
 I bridge the gap between sophisticated UI/UX design and scalable system architecture. My work focuses on **"Quiet Luxury"**—minimalist aesthetics paired with high-performance execution. I specialize in building complex dashboards, editorial-grade platforms, and spatial web experiences.
 
-- 🔭 **Currently Architecting:** [Hira Times](https://github.com/me-hv/hiratimes.com) — A Next.js 15 editorial powerhouse.
-- ⚡ **Performance Obsession:** Optimizing for LCP, CLS, and spatial interaction fluidity.
-- 🎨 **Design Language:** Systematic, minimalist, and functionally dense.
+- **Currently Architecting:** [Hira Times](https://github.com/me-hv/hiratimes.com) — A Next.js 15 editorial powerhouse.
+- **Performance Obsession:** Optimizing for LCP, CLS, and spatial interaction fluidity.
+- **Design Language:** Systematic, minimalist, and functionally dense.
 
 ---
 
