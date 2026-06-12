@@ -1,90 +1,63 @@
-# Harry Verma  
-### Full Stack Engineer • Android Developer • UI Systems Architect  
+# Harry Verma
 
-*Designing high-performance digital systems with a “Mission Control” philosophy — where engineering precision meets minimalist design.*
+### Full Stack Engineer • Android Developer • Product Builder
 
----
-
-## The Philosophy
-
-I build scalable applications and immersive interfaces focused on **performance, clarity, and functional elegance**. My work combines modern frontend engineering, Android development, and backend architecture to create products that feel fast, intentional, and visually refined.
-
-My design approach revolves around **“Quiet Luxury”** — minimal interfaces powered by deeply engineered systems.
-
-- ⚡ Obsessed with performance optimization, smooth interactions, and scalable architecture  
-- 🧠 Focused on editorial systems, cybersecurity platforms, and spatial UI experiences  
-- 🎯 Building products that balance aesthetics with engineering discipline  
+Building Android apps, web platforms, developer tools, and cybersecurity products with a focus on performance, simplicity, and user experience.
 
 ---
 
-# Current Focus
+## About Me
 
-## 🛡️ Satark Raho
-### Cyber Security Awareness & Protection Platform
+I'm a software developer focused on creating practical products that solve real-world problems.
 
-A modern Android cybersecurity application focused on digital safety, awareness, breach monitoring, and scam prevention.
+My interests span:
 
-- Built using **Kotlin** in **Android Studio**
-- Backend powered by **Firebase**
-- Focused on clean UX, real-time systems, and modern Android architecture
-- Currently in active development
+* Android Development
+* Full Stack Web Applications
+* Cybersecurity Products
+* Developer Tools
+* Systems Programming
+* AI-Assisted Software Engineering
 
-### Core Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+Currently exploring Go, Rust, and modern cloud-native architectures while building production-ready applications.
 
 ---
 
-# Selected Projects
+## Current Projects
 
-## 01. Hira Times
-### Lead Architect • Next.js 15 Editorial Platform
+### 🛡️ Satark Raho
 
-A modern high-performance digital news platform engineered for the new editorial era.
+Cybersecurity awareness and protection platform for Android.
 
-### Highlights
+**Stack:** Kotlin • Firebase • Android Studio
 
-- Next.js 15 architecture with Partial Prerendering (PPR)
-- Mission Control inspired CMS experience
-- Optimized content density without visual clutter
-- Performance-first engineering approach
+### 📰 Book My Notice
 
-### Stack
+Newspaper advertisement booking platform that simplifies notice publishing workflows.
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Stack:** Kotlin • Firebase • Cloudflare • PostgreSQL
 
-🔗 https://github.com/me-hv/hiratimes.com
+### 🏛️ Hira Times
 
----
+High-performance digital editorial platform focused on speed, readability, and scalable publishing.
 
-## 02. Senior Architect
-### Spatial Portfolio • UI/UX Systems Research
+**Stack:** Next.js • React • TypeScript • PostgreSQL
 
-An experimental portfolio exploring spatial interfaces, fluid interaction systems, and architectural typography.
+### 🎹 Riyaz
 
-### Focus Areas
+Browser-based music production environment featuring piano roll editing and MIDI composition tools.
 
-- Spatial web experiences
-- High-fidelity motion systems
-- Experimental UI architecture
-- Premium interaction design
+**Stack:** React • TypeScript • Web Audio API
 
-### Stack
+### ⚡ GoPulse
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+Concurrent URL health-checking CLI built in Go.
 
-🔗 https://github.com/me-hv/Senior-Architect
+**Stack:** Go • Bubble Tea • CSV/JSON Export
 
 ---
 
-# Technical Ecosystem
+## Technical Ecosystem
 
 <table>
   <tr>
@@ -130,41 +103,25 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   </tr>
 </table>
 
+---
+
+## Currently Learning
+
+* Go
+* Rust
+* Cybersecurity Engineering
+* Systems Programming
+* Cloud Infrastructure
+* AI Coding Agents & MCP
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
-- Performance-Driven Development  
-- Scalable Component Architecture  
-- Minimalist UI Systems  
-- Motion with Purpose  
-- Editorial-Grade Visual Hierarchy  
-- Cybersecurity Awareness Engineering  
-
----
-
-# System Diagnostics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-hv&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-hv&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f"/>
-
-</p>
+* Build useful products
+* Performance first
+* Simple beats complex
+* Ship fast, iterate faster
+* Learn by building
 
 ---
-
-# Connection Channels
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://senior-architect.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/me-hv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.harryverma@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Design%20is%20how%20systems%20think,%20feel,%20and%20perform.&text_color=9f9f9f" />
-</p>
-```
