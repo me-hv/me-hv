@@ -90,21 +90,38 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   <tr>
     <td><b>Frontend Engineering</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,redux" />
     </td>
   </tr>
 
   <tr>
     <td><b>Android Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
     </td>
   </tr>
 
   <tr>
     <td><b>Backend & Infrastructure</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgresql,prisma" />
+      <img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma,supabase,firebase,cloudflare" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Systems Programming</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=go,rust" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI Engineering</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge" />
     </td>
   </tr>
 
@@ -118,12 +135,10 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   <tr>
     <td><b>Systems & Tooling</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,vercel,streamlit" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,streamlit" />
     </td>
   </tr>
 </table>
-```
-
 
 ---
 
