@@ -90,14 +90,14 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   <tr>
     <td><b>Frontend Engineering</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,redux" />
     </td>
   </tr>
 
   <tr>
     <td><b>Android Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
     </td>
   </tr>
 
@@ -116,16 +116,6 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   </tr>
 
   <tr>
-    <td><b>AI Engineering</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge" />
-    </td>
-  </tr>
-
-  <tr>
     <td><b>Design & Motion</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=figma,threejs" />
@@ -135,10 +125,11 @@ An experimental portfolio exploring spatial interfaces, fluid interaction system
   <tr>
     <td><b>Systems & Tooling</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,streamlit" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman" />
     </td>
   </tr>
 </table>
+
 
 ---
 
